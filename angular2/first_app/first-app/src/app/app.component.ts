@@ -11,4 +11,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  delete = false;
+  test = 'Initial Value';
+  boundValue = 1000;
 }
