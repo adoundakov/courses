@@ -12,4 +12,8 @@ export class DatabindingComponent {
   onTest() {
     return true;
   }
+
+  onClicked(value: string) {
+    console.log(value);
+  }
 }

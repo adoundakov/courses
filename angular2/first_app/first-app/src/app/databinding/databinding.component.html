@@ -10,3 +10,6 @@
 <p [ngStyle]="{color: 'blue'}">Is this styled with ngStyle?</p>
 <h3>custom Property Binding</h3>
 <app-property-binding [result]='10'></app-property-binding>
+<hr>
+<h1>Event Binding</h1>
+<app-event-binding (clicked)='onClicked($event)'></app-event-binding>
