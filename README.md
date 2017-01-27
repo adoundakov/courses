@@ -18,7 +18,7 @@ how to compile and run each project in the folder.
 |:------------------------------:|:-----------:|:-----------------------------:|
 |            Angular2            | In Progress |    [link][angular2 course]    |
 |       Adv. React / Redux       |  Scheduled  | [link][advanced react course] |
-|  Complete React Native / Redux |  Scheduled  |  [link][react native course]  |
+|  Complete React Native / Redux | In Progress |  [link][react native course]  |
 | Algorithms and Data Structures |  Scheduled  |     [link][algos toolbox]     |
 
 [angular2 course]:https://www.udemy.com/the-complete-guide-to-angular-2
